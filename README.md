@@ -1,7 +1,7 @@
-...
+------
 Author: Arkadiusz Bujak
 Date: 17.03.2019
-...
+------
 
 
 # lab5wdp_niestac
